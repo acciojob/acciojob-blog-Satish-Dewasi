@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#moving-text{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.img{
+    height: 200px;
+}
+
+.img2 {
+    height: 200px;
+    align-items:left;
+}
+
+.img3 {
+    height: 200px;
+}
